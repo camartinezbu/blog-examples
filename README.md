@@ -1,3 +1,3 @@
-# Ejemplos-blog
+# blog-examples
 
-Este respositorio contiene los ejemplos del blog [camartinezbu.github.io](camartinezbu.github.io)
+The images repository for the blog at www.camartinezbu.com
